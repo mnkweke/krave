@@ -1,0 +1,17 @@
+{
+  "name": "Krave Edibles",
+  "short_name": "Krave",
+  "description": "Krave Edibles Business Tracker",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8f5ee",
+  "theme_color": "#1a3320",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://mnkweke.github.io/krave/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
